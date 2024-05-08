@@ -9,7 +9,7 @@ function App() {
             <div className="h-75 w-full">
                 <img className="h-full" src="./img/bg-cafe.jpg" alt="bg" />
             </div>
-            <main className="relative -mt-[140px] w-[80%] bg-[#1B1D1F] rounded-2xl px-[124px] py-20 mb-40">
+            <main className="relative -mt-[140px] w-[80%] bg-[#1B1D1F] rounded-2xl px-10 md:px-20 lg:px-[124px] py-20 mb-40">
                 <div className="absolute top-0 left-1/2 z-0">
                     <img src="./svg/vector.svg" alt="vector" />
                 </div>
